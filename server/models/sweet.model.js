@@ -34,6 +34,7 @@ const sweetSchema = new mongoose.Schema(
       trim: true,
       maxlength: [300, "Description must be under 300 characters"],
     },
+    image:String,
 
 
   },
