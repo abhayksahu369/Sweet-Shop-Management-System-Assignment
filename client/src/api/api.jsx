@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const api = axios.create({
-  baseURL: "http://localhost:5000/api", // update if your backend URL changes
+    baseURL: "https://sweet-shop-management-system-assignment.onrender.com/api/", 
   headers: {
     "Content-Type": "application/json",
   },
