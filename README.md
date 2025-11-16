@@ -141,19 +141,18 @@ The client enforces role-based access using components:
   * **`AdminSweetsPage` (Restock UI):** Manages restock amounts per item using a `restockQty` state object. Calls the `POST /sweets/:id/restock` endpoint with the specified amount.
 
 -----
-## 8. Screenshots
+## 7. Screenshots
 
 This section provides visual references for key pages and features in the application interface.
 
 | Screenshot | Description |
 | :--- | :--- |
-| ![Login Page](login.png) | The user login page. |
-| ![Register Page](register.png) | The user registration page. |
-| ![Home Page](homePage.png) | The main customer view showcasing available sweets and filters. |
-| ![Admin Dashboard](adminDashboard.png) | The administrator's panel for managing inventory (CRUD operations and restock). |
-| ![Add Sweet](addSweet.png) | The form used by administrators to add a new sweet item (or update existing ones). |
+| ![Login Page](images/login.png) | The user login page. |
+| ![Register Page](images/register.png) | The user registration page. |
+| ![Home Page](images/homePage.png) | The main customer view showcasing available sweets and filters. |
+| ![Admin Dashboard](images/adminDashboard.png) | The administrator's panel for managing inventory (CRUD operations and restock). |
+| ![Add Sweet](images/addSweet.png) | The form used by administrators to add a new sweet item (or update existing ones). |
 
-***
 ## 8\. My AI Usage
 
 ### AI Tool Used
